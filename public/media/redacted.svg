@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#0b1220" />
+  <rect x="60" y="60" width="1080" height="555" rx="16" fill="#121a2b" stroke="#2a3a57" />
+  <rect x="110" y="135" width="980" height="36" rx="8" fill="#22314d" />
+  <rect x="110" y="195" width="760" height="24" rx="8" fill="#1b2740" />
+  <rect x="110" y="235" width="820" height="24" rx="8" fill="#1b2740" />
+  <rect x="110" y="275" width="640" height="24" rx="8" fill="#1b2740" />
+  <rect x="110" y="335" width="980" height="220" rx="12" fill="#0f172a" stroke="#2a3a57" />
+  <text x="110" y="110" fill="#dbeafe" font-family="Arial, Helvetica, sans-serif" font-size="28">Redacted Screenshot Placeholder</text>
+  <text x="110" y="595" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="18">Replace with sanitized images (blur/redact identifiers)</text>
+</svg>
